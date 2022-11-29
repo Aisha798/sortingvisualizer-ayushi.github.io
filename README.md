@@ -14,3 +14,5 @@ Merge sort
 Quick sort
 
 Heap sort
+
+Take a look at live version: https://aisha798.github.io/sortingvisualizer-ayushi.github.io/
